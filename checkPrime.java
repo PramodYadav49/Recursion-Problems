@@ -9,6 +9,7 @@ public class checkPrime {
 			System.out.println("Is Prime "+p);
 			return;
 		}
+		//lj
 		else if(n>2 && n%2==0) {
 			
 			p=false;
